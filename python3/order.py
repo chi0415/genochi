@@ -1,0 +1,2 @@
+order = 'カフェラテ'
+print ( order )
